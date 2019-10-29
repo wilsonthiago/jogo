@@ -5,18 +5,17 @@ oi grupo, tudo bem?
 
 
 
-2)
-Teste
+2)Douglas
 
 
 
-3)
+3)Henrique
 
 
 https://github.com/wilsonthiago/jogo.git
 
 
-4)
+4)Vinicius B.
 
 
 
