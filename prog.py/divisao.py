@@ -1,4 +1,4 @@
-n1=int(input('Informe um valor:'))
-n2=int (input ('Informe o segundo valor:'))
-calc=n1/n2
+numero1=int(input('Informe um valor:'))
+numero2=int (input ('Informe o segundo valor:'))
+calc=numero1/numero2
 print (calc)
