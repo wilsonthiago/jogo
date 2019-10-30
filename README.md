@@ -1,7 +1,6 @@
 # jogo (digite na caneta para ver as informaçoes completas)
 repositório jogo
 vou deixar as informações do que devemos fazer:
-soma:
 
 Subtracão
 fazer uma conta de divisao qualaquer e a partir do resultado mostrar se é primo ou não e mostrar os antecessores a ele:
