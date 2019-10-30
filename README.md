@@ -1,4 +1,4 @@
-# jogo
+# jogo (digite na caneta para ver as informaçoes completas
 repositório jogo
 vou deixar as informações do que devemos fazer:
 soma:
