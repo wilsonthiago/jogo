@@ -2,6 +2,12 @@
 repositório jogo
 vou deixar as informações do que devemos fazer:
 
+Soma
+fazer a conta de soma e dizer se o resultado é primo ou não
+EX:
+1+1=2
+2 é primo!
+
 Subtracão
 fazer uma conta de divisao qualaquer e a partir do resultado mostrar se é primo ou não e mostrar os antecessores a ele:
 EX:
