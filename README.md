@@ -1,4 +1,4 @@
-# jogo (digite na caneta para ver as informaçoes completas)
+# jogo (clique na caneta para ver as informaçoes completas)
 repositório jogo
 vou deixar as informações do que devemos fazer:
 
@@ -9,7 +9,7 @@ EX:
 2 é primo!
 
 Subtracão
-fazer uma conta de divisao qualaquer e a partir do resultado mostrar se é primo ou não e mostrar os antecessores a ele:
+fazer uma conta de divisao qualquer e a partir do resultado mostrar se é primo ou não e mostrar os antecessores a ele:
 EX:
 9/3 = 3
 2,3:
