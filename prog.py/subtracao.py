@@ -2,8 +2,8 @@ import math
 i=2
 primo=True
 x=int(input("Digite um valor inteiro: " ))
-z=int(input("Digite um valor inteiro: " ))
-calc= x-z
+y=int(input("Digite um valor inteiro: " ))
+calc= x-y
 print('Resultado subtração:',x-z)
 while i<=math.sqrt(calc):
 	if calc%i==0:
