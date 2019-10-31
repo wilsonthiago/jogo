@@ -1,4 +1,4 @@
-n1=int(input("Informe um valor: "))
+n1=int(input("Informe valor inteiro: "))
 n2=int(input("Informe um valor: "))
 calc=n1*n2
 i=0
