@@ -4,7 +4,7 @@ primo=True
 x=int(input("Digite um valor inteiro: " ))
 y=int(input("Digite um valor inteiro: " ))
 calc= x-y
-print('Resultado subtração:',x-z)
+print('Resultado subtração:',x-y)
 while i<=math.sqrt(calc):
 	if calc%i==0:
 		primo=False
